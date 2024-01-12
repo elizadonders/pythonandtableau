@@ -9,3 +9,6 @@ Value Inc Seasons:
 https://finch-groundhog-9245.squarespace.com/s/value_inc_seasons.csv
 Logo: (Value Inc. Logo.png)
 https://finch-groundhog-9245.squarespace.com/s/Value-Inc-Logo.png
+
+I published the final dashbord below.
+https://public.tableau.com/shared/XP3JTC2TM?:display_count=n&:origin=viz_share_link
