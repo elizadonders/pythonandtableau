@@ -1,14 +1,12 @@
-Project: Sales Analysis for Value Inc 
-Value Inc is a retail store that sells household items all over the world by bulk. 
-The Sales Manager has no sales reporting but he has a brief idea of current sales.
-He also has no idea of the monthly cost, profit and top selling products. He wants a 
-dashboard on this and says the data is currently stored in an excel sheet.
-Date File: (transactions.csv) – 153 MB file
-https://drive.google.com/file/d/1i6MQZmXUuqyqGjSGbsPrNKV-eJPAhxU/view?usp=sharing
-Value Inc Seasons:
-https://finch-groundhog-9245.squarespace.com/s/value_inc_seasons.csv
-Logo: (Value Inc. Logo.png)
-https://finch-groundhog-9245.squarespace.com/s/Value-Inc-Logo.png
+Value Inc., a global retailer of household items, requiring a comprehensive sales and profitability overview.
+
+Project Overview: Developed a sales reporting dashboard to provide insights into monthly costs, profits, and top-selling products.
+
+Tools and Techniques:
+
+Data Analysis: Utilized Python for dataset analysis, mathematical operations, and data cleaning.
+
+Visualization: Designed a dashboard in Tableau Public to provide the Sales Manager with actionable insights into sales data.
 
 I published the final dashbord below.
 https://public.tableau.com/app/profile/elizabeth.donders/viz/ValueIncproject/Dashboard1
